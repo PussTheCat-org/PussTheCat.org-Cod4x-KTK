@@ -136,8 +136,6 @@ mp_crash3
 
 mp_ctan
 
-mp_d2c
-
 mp_damnalley
 
 mp_disputed
@@ -154,11 +152,29 @@ mp_doowood
 
 mp_drillco
 
+mp_dust2_classic
+
+mp_dust3
+
+mp_dustcod4
+
 mp_fabrika
+
+mp_fav
+
+mp_firingrange_v2
+
+mp_forlorn
 
 mp_foxhunt_ruins
 
 mp_gob_aim_snow
+
+mp_hhk_ballroom
+
+mp_highrise
+
+mp_hims
 
 mp_invade
 
