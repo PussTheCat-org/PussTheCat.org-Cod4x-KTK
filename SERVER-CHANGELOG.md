@@ -120,4 +120,4 @@ Additions:
 
 Enhancements:
 
-- The map rotation has been redone from scratch, using the maps files as a list. 
+- The map rotation has been redone from scratch, using the maps files as a list.
