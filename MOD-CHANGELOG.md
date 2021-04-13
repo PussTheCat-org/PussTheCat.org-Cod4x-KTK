@@ -10,7 +10,7 @@ Plugins:
 
 Mod code:
 - Changes the title for the "Hall of Fame" to explain that it's an "All time" leader-board 
-- Fixed the display of the team icons on round end (fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/7 )
+- Fixed the display of the team icons on round end (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/7 )
 - Replaced the execution of "map_restart" with the cod4 default function
 - Added a screen print when HnS can not start because the xmodel file is not written/read
 
@@ -49,4 +49,4 @@ The Mod.ff and some IWDs have changed because of those changes:
 
 Fixes:
 
-- Remove the all the textures (including concrete/sand textures) that were replaced with a grass texture
+- Remove the all the textures (including concrete/sand textures) that were replaced with a grass texture (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/16 )
