@@ -1,9 +1,9 @@
-# 2021-04-09
+# 2021-04-09 - Update 1
 
 - Added bot king skill
 - Fix for the score
 
-# 2021-04-10
+# 2021-04-10 - Update 2
 
 Plugins:
 - Fixed the xmodel plugin to be able to play the HnS event again
@@ -14,7 +14,7 @@ Mod code:
 - Replaced the execution of "map_restart" with the cod4 default function
 - Added a screen print when HnS can not start because the xmodel file is not written/read
 
-# 2021-04-12
+# 2021-04-12 - Update 3
 
 Addition:
 
