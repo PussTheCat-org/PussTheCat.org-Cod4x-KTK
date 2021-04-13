@@ -26,7 +26,6 @@ Fixes:
 
 # 2021-04-11
 
-
 Additions:
 
 11 maps - that support bots - have been added to the server:

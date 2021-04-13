@@ -37,7 +37,6 @@ Fixes:
 - Fixed the team switch on new round of HnS
 - Fixed the damage detection of props in HnS
 
-
 ---
 
 The Mod.ff and some IWDs have changed because of those changes:
