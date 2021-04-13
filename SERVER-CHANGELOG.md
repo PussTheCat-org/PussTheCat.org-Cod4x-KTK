@@ -118,6 +118,18 @@ Additions:
 - mp_crossfire
 - mp_vacant
 
+8 maps - that support bots - have been added to the server:
+
+- mp_dust3
+- mp_dustcod4
+- mp_fav
+- mp_firingrange_v2
+- mp_forlorn
+- mp_hhk_ballroom
+- mp_highrise
+- mp_hims
+
 Enhancements:
 
 - The map rotation has been redone from scratch, using the maps files as a list.
+- mp_d2c has been replaced by mp_dust2_classic (since its name is more obvious)

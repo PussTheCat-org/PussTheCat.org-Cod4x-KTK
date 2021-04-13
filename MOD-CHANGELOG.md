@@ -44,3 +44,9 @@ The Mod.ff and some IWDs have changed because of those changes:
 - Replaced the zombie dog model with a better paint weighted one
 - Removed the ammo counter for melee weapons
 - Changed the throw time of the throwing knife
+
+# 2021-04-12
+
+Fixes:
+
+- Remove the all the textures (including concrete/sand textures) that were replaced with a grass texture
