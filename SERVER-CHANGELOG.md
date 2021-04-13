@@ -106,3 +106,18 @@ Enhancements:
 - Bot numbers changed from 8 to 10
 - mp_ancient has been replaced by mp_ancient_final (since it's an enhanced version of it)
 - Round time changed from 4 minutes to 3 minutes
+
+# 2021-04-13
+
+Additions:
+
+- 4 vanilla maps have been added to the rotation, because for whatever reason, they weren't in it.
+
+- mp_broadcast
+- mp_citystreets
+- mp_crossfire
+- mp_vacant
+
+Enhancements:
+
+- The map rotation has been redone from scratch, using the maps files as a list. 
