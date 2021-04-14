@@ -50,6 +50,8 @@ lolzor
 
 lolzor2
 
+maze1
+
 mp_4nuketown
 
 mp_4t4scrap
@@ -100,6 +102,8 @@ mp_bo2meltdown2
 
 mp_bo2mir
 
+mp_bo2nuketown
+
 mp_bo2paintball
 
 mp_bo2raid
@@ -109,6 +113,8 @@ mp_bo2standoff
 mp_bo2turbine
 
 mp_bo2yemen
+
+mp_box_hjacked
 
 mp_bridge
 
@@ -176,23 +182,59 @@ mp_highrise
 
 mp_hims
 
+mp_iceworld
+
+mp_inferno
+
+mp_inv
+
 mp_invade
+
+mp_karachi
+
+mp_karrak
+
+mp_kh1
+
+mp_killhouse_2
+
+mp_kk_arena
+
+mp_lake
+
+mp_laugh
 
 mp_lego_rgb
 
 mp_legotown
 
+mp_lgc_knifefight
+
 mp_lolv2
 
+mp_lpost
+
 mp_marketcenter
+
+mp_matroska
 
 mp_meanstreet2
 
 mp_modern_rust
 
+mp_mw2_term
+
 mp_naout
 
 mp_nuketown
+
+mp_oldschool
+
+mp_onslaught
+
+mp_outset
+
+mp_pillar
 
 mp_poolday
 
@@ -200,13 +242,39 @@ mp_poolday_reunion
 
 mp_poolday_v2
 
+mp_poolparty
+
 mp_prison
+
+mp_prunis
+
+mp_psycho
 
 mp_pussthecat_org_l
 
+mp_renan_bridge4
+
+mp_roundup
+
+mp_ruins
+
+mp_sbase
+
+mp_shipment2
+
 mp_shipment3
 
+mp_shipmentx2
+
+mp_simpsons
+
+mp_skidrow
+
 mp_slide
+
+mp_steamlab
+
+mp_summit
 
 mp_toujane_beta
 
@@ -214,6 +282,16 @@ mp_toujane_v2
 
 mp_toybox4
 
+mp_treasure
+
+mp_v2_b1
+
+mp_vukovar
+
 mp_waldcamp
 
 mp_wawa 
+
+mp_wizard
+
+mp_zom_box_fun
