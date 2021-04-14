@@ -55,4 +55,4 @@ Fixes:
 
 Fixes:
 
-- Remove 23 textures that affected the maps because they replaced stuff they weren't supposed to do (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/27 and https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/28 )
+- Remove 23 textures that affected the maps because they replaced stuff they weren't supposed to (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/27 and https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/28 )
