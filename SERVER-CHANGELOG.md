@@ -181,3 +181,8 @@ Additions:
 - mp_zom_box_fun
 
 This took 5 hours, and conclude the addition of maps with bots supports, until I find/receive more bots waypoints scripts.
+
+Enhancements:
+
+- The "Join last server" button on the main menu has been fixed
+- The events configuration has been fixed
