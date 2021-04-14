@@ -50,3 +50,9 @@ The Mod.ff and some IWDs have changed because of those changes:
 Fixes:
 
 - Remove the all the textures (including concrete/sand textures) that were replaced with a grass texture (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/16 )
+
+# 2021-04-14
+
+Fixes:
+
+- Remove 23 textures that affected the maps because they replaced stuff they weren't supposed to do (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/27 and https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/28 )
