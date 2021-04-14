@@ -133,3 +133,51 @@ Enhancements:
 
 - The map rotation has been redone from scratch, using the maps files as a list.
 - mp_d2c has been replaced by mp_dust2_classic (since its name is more obvious)
+
+# 2021-04-13
+
+Additions:
+
+39 maps - that support bots - have been added to the server:
+
+- maze1 (thanks to Viking for providing the files)
+- mp_bo2nuketown (thanks to Viking for finding the files)
+- mp_box_hjacked (thanks to Viking for finding the files)
+- mp_iceworld
+- mp_inferno
+- mp_inv
+- mp_karachi
+- mp_karrak
+- mp_kh1
+- mp_killhouse_2
+- mp_kk_arena
+- mp_lake
+- mp_laugh
+- mp_lgc_knifefight
+- mp_lpost
+- mp_matroska
+- mp_mw2_term
+- mp_oldschool
+- mp_onslaught
+- mp_outset
+- mp_pillar
+- mp_poolparty
+- mp_prunis
+- mp_psycho
+- mp_renan_bridge4
+- mp_roundup
+- mp_ruins
+- mp_sbase
+- mp_shipment2
+- mp_shipmentx2
+- mp_simpsons
+- mp_skidrow
+- mp_steamlab
+- mp_summit
+- mp_treasure
+- mp_v2_b1
+- mp_vukovar
+- mp_wizard
+- mp_zom_box_fun
+
+This took 5 hours, and conclude the addition of maps with bots supports, until I find/receive more bots waypoints scripts.
