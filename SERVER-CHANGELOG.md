@@ -189,8 +189,33 @@ Enhancements:
 
 # 2021-04-15
 
+Additions:
+
+17 classic KTK maps have been added:
+
+- mp_maze
+- mp_ninja_caveslide
+- mp_ninja_chickencastle
+- mp_ninja_fightland
+- mp_ninja_forts
+- mp_ninja_halfpipe
+- mp_ninja_hill
+- mp_ninja_lolratz
+- mp_ninjalolzor
+- mp_ninja_madness
+- mp_ninja_maze
+- mp_ninja_poolday
+- mp_ninja_rooms
+- mp_ninja_seasons
+- mp_portalhouse
+- mp_teacher
+- mp_tetris
+
+Thanks to [Ninja]Nin)J(a / @shineLight#5654 for providing me with all those maps
+
 Enhancements:
 
+- Update date updated in the server name
 - Fast-fire detector disabled
 - Bots assassins skill set to 0.6
 - Bots guardians skill changed from 0.3 to 0.4
