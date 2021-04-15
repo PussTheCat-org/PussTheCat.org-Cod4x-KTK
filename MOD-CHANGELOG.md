@@ -9,6 +9,7 @@ Plugins:
 - Fixed the xmodel plugin to be able to play the HnS event again
 
 Mod code:
+
 - Changes the title for the "Hall of Fame" to explain that it's an "All time" leader-board 
 - Fixed the display of the team icons on round end (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/7 )
 - Replaced the execution of "map_restart" with the cod4 default function
@@ -16,13 +17,13 @@ Mod code:
 
 # 2021-04-12 - Update 3
 
-Addition:
+Additions:
 
 - Added "none" as constant event to the event vote
 - Added a fps check to avoid glitching through lolzor spawn protection
 - Added a dvar check for the version on loadscreen
 
-Enhancement:
+Enhancements:
 
 - Changed the throw time of the throwing knife
 - Changed healthbar of king and terminator to hide it when a menu is on top
@@ -56,3 +57,40 @@ Fixes:
 Fixes:
 
 - Remove 23 textures that affected the maps because they replaced stuff they weren't supposed to (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/27 and https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/28 )
+
+# 2021-04-15
+
+Additions:
+
+- Adminmenu has a new popup page for server changes
+- Admins can now noclip (used for debuging - don't abuse it!)
+- Added a dvar to enable/disable the fast-fire/weaponswitch detection
+- Added separated skill dvars for assassins and guards
+- HnS has now an instruction hud in upper left corner
+
+Enhancements:
+
+- Adminmenu now has all players on one page
+- FovScale setting added more values
+- Removed the last Update Date from the Loadscreen
+- Killstreak icons moved when the lagometer is enabled
+- Antiglitch triggers will no longer destroy RC-Toys
+- Suicide will now first explodes RC-Toys (so you need to suicide twice to die)
+- Changed the fast-fire/weaponswitch detection back to 300 instead of 500
+- Changed the fake lag detection so it has a short delay before triggering
+- Auto map rotation when no players are online will now use bot maps when there are any in the map rotation
+- Adminmenu will now send less commands from server to client
+
+Fixes:
+- Fixed the fast fire of bots
+- Fixed the bot sprint (untested)
+
+---
+
+The Mod.ff have changed because of those changes:
+
+- Adminmenu has a new popup page for server changes
+- Adminmenu now has all players on one page
+- FovScale setting added more values
+- Removed the last Update Date from the Loadscreen
+- Killstreak icons moved when the lagometer is enabled

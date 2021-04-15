@@ -186,3 +186,12 @@ Enhancements:
 
 - The "Join last server" button on the main menu has been fixed
 - The events configuration has been fixed
+
+# 2021-04-15
+
+Enhancements:
+
+- Fast-fire detector disabled
+- Bots assassins skill set to 0.6
+- Bots guardians skill changed from 0.3 to 0.4
+- Bot king skill changed from 0.6 to 0.8
