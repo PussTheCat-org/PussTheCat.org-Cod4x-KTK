@@ -80,6 +80,7 @@ Enhancements:
 - Changed the fake lag detection so it has a short delay before triggering
 - Auto map rotation when no players are online will now use bot maps when there are any in the map rotation
 - Adminmenu will now send less commands from server to client
+- Speed up the spawn helicoper and parachute
 
 Fixes:
 - Fixed the fast fire of bots
