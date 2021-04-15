@@ -218,6 +218,8 @@ mp_marketcenter
 
 mp_matroska
 
+mp_maze
+
 mp_meanstreet2
 
 mp_modern_rust
@@ -225,6 +227,32 @@ mp_modern_rust
 mp_mw2_term
 
 mp_naout
+
+mp_ninja_caveslide
+
+mp_ninja_chickencastle
+
+mp_ninja_fightland
+
+mp_ninja_forts
+
+mp_ninja_halfpipe
+
+mp_ninja_hill
+
+mp_ninja_lolratz
+
+mp_ninjalolzor
+
+mp_ninja_madness
+
+mp_ninja_maze
+
+mp_ninja_poolday
+
+mp_ninja_rooms
+
+mp_ninja_seasons
 
 mp_nuketown
 
@@ -243,6 +271,8 @@ mp_poolday_reunion
 mp_poolday_v2
 
 mp_poolparty
+
+mp_portalhouse
 
 mp_prison
 
@@ -275,6 +305,10 @@ mp_slide
 mp_steamlab
 
 mp_summit
+
+mp_teacher
+
+mp_tetris
 
 mp_toujane_beta
 
