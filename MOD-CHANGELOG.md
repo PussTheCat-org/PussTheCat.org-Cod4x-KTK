@@ -58,7 +58,7 @@ Fixes:
 
 - Remove 23 textures that affected the maps because they replaced stuff they weren't supposed to (Fixes https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/27 and https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/28 )
 
-# 2021-04-15
+# 2021-04-15 - Update 4
 
 Additions:
 
