@@ -95,3 +95,17 @@ The Mod.ff have changed because of those changes:
 - FovScale setting added more values
 - Removed the last Update Date from the Loadscreen
 - Killstreak icons moved when the lagometer is enabled
+
+# 2021-04-16 - Update 5
+
+Enhancements:
+
+- Make the Juggernaut health bonus different for each team
+- Update some internal documentations
+- Added the enemy name display to the anti-dvar-dump list (the list of dvar that's enforced by the mod and can't be changed on clients)
+
+Fixes:
+
+- Forcing enemy name display to 0 (disabled) when event is HnS
+- Fixed the noclip function not always giving godmod
+- Fixed the mod executing "cg_fov 0" for no reason when connecting (the value wasn't a supported value so this didn't do anything other than display an error in the console)

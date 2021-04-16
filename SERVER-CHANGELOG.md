@@ -220,3 +220,15 @@ Enhancements:
 - Bots assassins skill set to 0.6
 - Bots guardians skill changed from 0.3 to 0.4
 - Bot king skill changed from 0.6 to 0.8
+
+# 2021-04-16
+
+Additions:
+
+The missing `mp_ninja` map has been added:
+
+- mp_ninja_copter
+
+Enhancements:
+
+- Juggernaut health bonus set to 500 for assassins (guardians bonus is still 300)

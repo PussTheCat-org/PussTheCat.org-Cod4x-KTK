@@ -232,6 +232,8 @@ mp_ninja_caveslide
 
 mp_ninja_chickencastle
 
+mp_ninja_copter
+
 mp_ninja_fightland
 
 mp_ninja_forts
