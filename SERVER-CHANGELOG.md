@@ -232,3 +232,43 @@ The missing `mp_ninja` map has been added:
 Enhancements:
 
 - Juggernaut health bonus set to 500 for assassins (guardians bonus is still 300)
+
+# 2021-04-19
+
+Additions:
+
+23 maps - that support bots - have been added to the server:
+
+- mp_area52
+- mp_battlearena (thanks to @Rhoyder#5545)
+- mp_beta
+- mp_boxfight
+- mp_colour
+- mp_circulus
+- mp_grinder
+- mp_hisar
+- mp_hunt (thanks to @Rhoyder#5545)
+- mp_lalus_poolday
+- mp_luna
+- mp_luna2
+- mp_qlimax_aim (thanks to Viking)
+- mp_roof
+- mp_rooftops
+- mp_sc_hangar
+- mp_school
+- mp_shaft
+- mp_shaftv2 (thanks to @Rhoyder#5545)
+- mp_southpark
+- mp_swamp
+- mp_wawa_3daim4
+- mp_zaseda
+
+Thanks to @JoeBacca#1558 for recommending me to dig into a 10 years old dead server, map rotation.
+
+Enhancements:
+
+- Server name changed (now include the number of maps on the server)
+- Bot numbers changed from 10 to 16
+- Bots guardians skill changed from 0.4 to 0.3
+- Weaponbox weapons price changed from 50 (10 kills) to 20 (4 kills)
+- Max ping changed from 300 to 1000

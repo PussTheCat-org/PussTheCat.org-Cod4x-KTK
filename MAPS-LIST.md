@@ -68,6 +68,8 @@ mp_ancient_final
 
 mp_aosta_valley
 
+mp_area52
+
 mp_argel
 
 mp_arkona
@@ -84,9 +86,13 @@ mp_backlot_2
 
 mp_bastogne
 
+mp_battlearena
+
 mp_bazaar
 
 mp_berry_village
+
+mp_beta
 
 mp_blackrock
 
@@ -114,6 +120,8 @@ mp_bo2turbine
 
 mp_bo2yemen
 
+mp_boxfight
+
 mp_box_hjacked
 
 mp_bridge
@@ -133,6 +141,10 @@ mp_c4s_minecraft
 mp_caen
 
 mp_castle_v1
+
+mp_circulus
+
+mp_colour
 
 mp_compact
 
@@ -176,11 +188,17 @@ mp_foxhunt_ruins
 
 mp_gob_aim_snow
 
+mp_grinder
+
 mp_hhk_ballroom
 
 mp_highrise
 
 mp_hims
+
+mp_hisar
+
+mp_hunt
 
 mp_iceworld
 
@@ -202,6 +220,8 @@ mp_kk_arena
 
 mp_lake
 
+mp_lalus_poolday
+
 mp_laugh
 
 mp_lego_rgb
@@ -213,6 +233,10 @@ mp_lgc_knifefight
 mp_lolv2
 
 mp_lpost
+
+mp_luna
+
+mp_luna2
 
 mp_marketcenter
 
@@ -284,13 +308,27 @@ mp_psycho
 
 mp_pussthecat_org_l
 
+mp_qlimax_aim
+
 mp_renan_bridge4
+
+mp_roof
+
+mp_rooftops
 
 mp_roundup
 
 mp_ruins
 
 mp_sbase
+
+mp_sc_hangar
+
+mp_school
+
+mp_shaft
+
+mp_shaftv2
 
 mp_shipment2
 
@@ -304,9 +342,13 @@ mp_skidrow
 
 mp_slide
 
+mp_southpark
+
 mp_steamlab
 
 mp_summit
+
+mp_swamp
 
 mp_teacher
 
@@ -328,6 +370,10 @@ mp_waldcamp
 
 mp_wawa 
 
+mp_wawa_3daim4
+
 mp_wizard
+
+mp_zaseda
 
 mp_zom_box_fun
