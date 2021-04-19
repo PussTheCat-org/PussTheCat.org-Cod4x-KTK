@@ -237,7 +237,7 @@ Enhancements:
 
 Additions:
 
-23 maps - that support bots - have been added to the server:
+23 maps - that don't support bots - have been added to the server:
 
 - mp_area52
 - mp_battlearena (thanks to @Rhoyder#5545)
