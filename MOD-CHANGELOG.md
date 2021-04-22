@@ -88,7 +88,7 @@ Fixes:
 
 ---
 
-The Mod.ff have changed because of those changes:
+The Mod.ff has changed because of those changes:
 
 - Adminmenu has a new popup page for server changes
 - Adminmenu now has all players on one page
@@ -109,3 +109,44 @@ Fixes:
 - Forcing enemy name display to 0 (disabled) when event is HnS
 - Fixed the noclip function not always giving godmod
 - Fixed the mod executing "cg_fov 0" for no reason when connecting (the value wasn't a supported value so this didn't do anything other than display an error in the console)
+
+# 2021-04-22 - Update 6
+
+Additions:
+- Added the M40A3 to the assassins
+- Removed the collision for weapon boxes so bots can walk through
+- Added a golden texture for the new weaponbox (no collision)
+- mp_bubba now supports bots (untested)
+- Nade cooking removed to avoid suicide
+
+Enhancements:
+
+- Removed the FPS check
+- Throwing knife speed increased
+- Changed the display name for event "none" to "None (Standard KTK)"
+- Forced the team switch variable when a player switches team (should fix the no weapon for guards in dog event)
+- Tried to make the bots sprint (but i think that still does not work)
+- Admin Menu has now custom buttons, no defaut CoD4 buttons (used to display all players on one page)
+- Admin Menu now shows which player will be punished
+- Admin Menu now contains traitor event
+- Minimum player set to 3 for the traitor event 
+
+Fixes:
+- Zombie event: Fix the green knife that followed the guardians 
+- Fixed mp_bubba
+- Fixed the empty map rotation that bot maps are prefered (had a typo in the array)
+
+---
+
+Mod.ff and z_v18_2.iwd have changed because of those changes:
+
+Mod.ff:
+- Admin Menu has now custom buttons, no defaut CoD4 buttons (used to display all players on one page)
+- Admin Menu now shows which player will be punished
+- Admin Menu now contains traitor event
+
+IWD:
+- Added a golden texture for the new weaponbox (no collision)
+- Added the M40A3 to the R700 weapon file
+- Throwing knife speed increased
+- Nade cooking removed to avoid suicide
