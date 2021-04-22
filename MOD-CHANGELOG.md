@@ -150,3 +150,18 @@ IWD:
 - Added the M40A3 to the R700 weapon file
 - Throwing knife speed increased
 - Nade cooking removed to avoid suicide
+
+# 2021-04-22 - Update 6 - Hotfix 1
+
+Enhancements:
+
+- Change transparent weapon box from gold to normal color
+- Remove a king model that was only used by Viking
+
+Fixes:
+
+- Fix the server name having characters removed when the round changed
+- Zombie event: Fix the model instead of the script to fix the knife following the guardians
+- Fix the VIPs functions not working with an 8 character GUID
+- Fix the VIPs self revive message
+- Fix the VIPs RPG getting a new rocket at every weapon upgrade
