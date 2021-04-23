@@ -272,3 +272,17 @@ Enhancements:
 - Bots guardians skill changed from 0.4 to 0.3
 - Weaponbox weapons price changed from 50 (10 kills) to 20 (4 kills)
 - Max ping changed from 300 to 1000
+
+# 2021-04-23
+
+Additions:
+
+- Set the bots to revive only if 3 human players or more are connected 
+- Make the server understand IPv6
+- Set the weaponbox to no collision
+
+Enhancements:
+
+- Server name changed (better colors)
+- Update date updated in the server name
+- Change the prefix used when the "server speak"

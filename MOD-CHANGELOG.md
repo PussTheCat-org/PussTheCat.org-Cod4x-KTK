@@ -165,3 +165,18 @@ Fixes:
 - Fix the VIPs functions not working with an 8 character GUID
 - Fix the VIPs self revive message
 - Fix the VIPs RPG getting a new rocket at every weapon upgrade
+
+# 2021-04-23 - Update 6 - Hotfix 2
+
+Additions:
+
+- Added a new dvar to control if the bots can revive or not
+
+Enhancements:
+
+- Cleaned the 'rotate empty map' script
+- Changed the 'rotate empty map' script so it will fall back to normal ktk before the map switch
+
+Fixes:
+
+- Fixed the self revive for VIPs
