@@ -296,4 +296,3 @@ Enhancements:
 - The RC Helicopter now requires 8 kills to be unlocked
 - VIPs XP Multiplier set to twice the value of the non VIP multiplier (so x2 during the week, x6 during the week-end, x10 during events)
 - Players can now reset their challenge
-- 
