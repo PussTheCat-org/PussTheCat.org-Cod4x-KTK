@@ -180,3 +180,28 @@ Enhancements:
 Fixes:
 
 - Fixed the self revive for VIPs
+
+# 2021-04-25 - Update 7
+
+Changelog:
+
+Additions:
+
+- Added a new killstreak setting to separate the rc car from the rc helicopter
+- Added a new setting to separate vip xp multiplier from normal xp multiplier
+- Added a new setting to define for how long the main assassin gets full ammo for the explosive crossbow (team size)
+- Added a votesystem to allow players to vote for an event or map switch, when the minplayer amount is not reached but there are no bots to play with
+- Added a radius trigger around the rc helicopter to make it easier to hit it (untested - Viking thinks triggers spawned by script do not detect damage impacts)
+- Added different buttons for RC Heli and RC Car in hardpoint menu
+
+Fixes:
+
+- Fixed the bot self revive
+- Fixed the bots revive others even if the number of players is lower than the minimum in config (untested)
+- Fixed the invisible viewhands, when an alien becomes a guard
+- Fixed the empty rotatemap when no maps in rotation
+- Fix the points counter at the bottom left
+
+The Mod.ff has changed because of this change:
+
+- Added different buttons for RC Heli and RC Car in hardpoint menu

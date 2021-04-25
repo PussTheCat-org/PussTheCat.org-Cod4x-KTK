@@ -286,3 +286,12 @@ Enhancements:
 - Server name changed (better colors)
 - Update date updated in the server name
 - Change the prefix used when the "server speak"
+
+# 2021-04-25
+
+Enhancements:
+
+- The main assassins will now get 3 explosive bolts until at least 6 players is in the assassins team
+- Assassins secondary weapon set to Intervention (instead of Repeater)
+- The RC Helicopter now requires 8 kills to be unlocked
+- VIPs XP Multiplier set to twice the value of the non VIP multiplier (so x2 during the week, x6 during the week-end, x10 during events)
