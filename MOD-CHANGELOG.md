@@ -197,8 +197,8 @@ Additions:
 Fixes:
 
 - Fixed the bot self revive
-- Fixed the bots revive others even if the number of players is lower than the minimum in config (untested)
-- Fixed the invisible viewhands, when an alien becomes a guard
+- Fixed the bots reviving others even if the number of players is lower than the minimum in config
+- Alien event: Fixed the invisible viewhands, when an alien becomes a guard
 - Fixed the empty rotatemap when no maps in rotation
 - Fix the points counter at the bottom left
 
