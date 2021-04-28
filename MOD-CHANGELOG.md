@@ -205,3 +205,20 @@ Fixes:
 The Mod.ff has changed because of this change:
 
 - Added different buttons for RC Heli and RC Car in hardpoint menu
+
+# 2021-04-28 - Update 7 - Hotfix 1
+
+Additions:
+
+- Add a setting to make the King kills not switch the assassins bots when there are X guardians bots already
+
+Enhancements:
+
+- Votesystem now shows results (top 3)
+
+Fixes:
+- cg_fov and cg_fovscale will not reset anymore when the change is not done through the settings menu of ktk
+
+The Mod.ff has changed because of this change:
+
+- cg_fov and cg_fovscale will not reset anymore when the change is not done through the settings menu of ktk

@@ -296,3 +296,13 @@ Enhancements:
 - The RC Helicopter now requires 8 kills to be unlocked
 - VIPs XP Multiplier set to twice the value of the non VIP multiplier (so x2 during the week, x6 during the week-end, x10 during events)
 - Players can now reset their challenge
+
+# 2021-04-28
+
+Additions:
+
+- Set to 7 bots the "setting to make the King kills not switch the assassins bots when there are X guardians bots already"
+
+Fixes:
+
+- mp_luna2 removed from the rotation (for now) since it crashes the server ( https://github.com/PussTheCat-org/PussTheCat.org-Cod4x-KTK/issues/73 )
