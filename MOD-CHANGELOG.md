@@ -222,3 +222,20 @@ Fixes:
 The Mod.ff has changed because of this change:
 
 - cg_fov and cg_fovscale will not reset anymore when the change is not done through the settings menu of ktk
+
+# 2021-04-30 - Update 7 - Hotfix 2
+
+Additions:
+
+- Added a new shellshock (screen shaking) effect
+- Added a shellshock (screen shaking) to players on the ground to make it a bit harder to aim (and feel like pain)
+- Added a debug message to the helicopter script to backtrace the big console error for maps that come without a helicopter support (but the mod creates a helipath)
+
+Enhancements:
+
+- Changed the view of the bots when climbing ladders to force them to climb up/down no matter how far away the next waypoint is
+- Reduced the var usage in the Knifeassisst script
+
+The Mod.ff has changed because of this change:
+
+- Added a new shellshock
