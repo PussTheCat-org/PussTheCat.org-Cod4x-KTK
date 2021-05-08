@@ -239,3 +239,37 @@ Enhancements:
 The Mod.ff has changed because of this change:
 
 - Added a new shellshock
+
+# 2021-05-08 - Update 8
+
+Additions:
+
+- Main menu displays song info
+- Main menu now has a button to read credits and intructions about events
+- Added a new admin cmd to freeze players (not in admin menu) (was used it to debug javelin final killcam - made it easier to kill a bot when he is stuck at a car position)
+
+Enhancements:
+
+- L.K.S. event will now show the last alive king as winner
+- L.K.S. new comers have to wait for next round
+- More helipath debugging lines added
+- Final Killcam will now follow javelin missiles
+
+Fixes:
+
+- KtK will now detect when players leave during events and end the round when only 1 player is left (instead of endless wait for new players)
+- Removed the bot debug message "direct"
+- Fixed the reset of the killstreak, when last one was reached
+- Fixed round start of "reverse ktk" event
+
+Mod.ff has changed because of those changes:
+
+- Main menu displays song info
+- Main menu now has a button to read credits and intructions about events
+
+z_v18_3.iwd was created because of of those changes:
+
+- Added a new iwd
+-> contains the config for the song info in main menu
+-> some weapon updates (removed some false sound references)
+-> prepared sound folder for the event sounds that are in development by ninja
