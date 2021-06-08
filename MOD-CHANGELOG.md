@@ -269,7 +269,38 @@ Mod.ff has changed because of those changes:
 
 z_v18_3.iwd was created because of of those changes:
 
-- Added a new iwd
 -> contains the config for the song info in main menu
 -> some weapon updates (removed some false sound references)
 -> prepared sound folder for the event sounds that are in development by ninja
+
+# 2021-06-08 - Update 9
+
+Additions:
+
+- Added a kick message when bots get replaced
+- Added a kick message for players banned in config
+- Added a dvar to enable/disable exploding cars in map
+- L.K.S event will now end when all 'real' players were killed or disconnected
+- Maps will now rotate when empty (or bots online only) for x minutes -> x is set in config "scr_mod_empty_time"
+
+Enhancements:
+
+- Cleanup of player variables on some files
+- Javelin added to global weapon array
+- Player guid is now shared instead of recaptured when needed
+- rewrote the thermal script to use less variables
+- Updated readme & config file
+
+Fixes:
+
+- Fixed the thermal message display
+- Fixed the riotshield button text when it's unlocked
+- fixed a rare killcam crash
+- Fixed the riotshield damage detection
+- Fixed crash when event "lastkingstanding" was stopped through admin menu
+- Fixed the map display for the menu based mapvote
+
+Mod.ff has changed because of those changes:
+
+- Fixed the thermal message display
+- Fixed the riotshield button text when it's unlocked
